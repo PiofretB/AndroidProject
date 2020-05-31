@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Grab the popcorn</string>
+    <string name="pop">Popular</string>
+    <string name="top">Top Rated</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_movies">Top Rated Movies</string>
+    <string name="popular_shows">Popular Shows</string>
+    <string name="top_shows">Top Rated Shows</string>
+    <string name="load_more">Load more</string>
+    <string name="search_query">\"Search query\"</string>
+</resources>
